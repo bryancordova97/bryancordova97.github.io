@@ -1,13 +1,13 @@
 {
   "greeting": "Hola",
-  "name": "Beatriz",
+  "name": "Bebé",
   "greetingText": "Te hice este pequeño presente virtual",
-  "wishText": "",
+  "wishText": " ",
   "imagePath": "img/Bea.jpg",
   "text1": "¡Es tu cumpleaños! :D",
   "textInChatBox": "Feliz cumpleaños espero que la pases muy bien...blabla",
   "sendButtonLabel": "Enviar",
-  "text2": "Eso solamente enviaría a otra persona",
+  "text2": "Eso es todo lo que enviaría a otra persona",
   "text3": "Pero a ti",
   "text4": "Quería hacerte algo más",
   "text4Adjective": "Especial",
@@ -17,7 +17,7 @@
   "bigTextPart1": "Por",
   "bigTextPart2": "eso",
   "wishHeading": "¡Feliz Cumpleaños!",
-  "outroText": "",
+  "outroText": " ",
   "replayText": "Dale al click o pulsa si quieres volverlo a ver",
   "outroSmiley": ":)"
 }
